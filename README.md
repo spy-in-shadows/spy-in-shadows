@@ -54,35 +54,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/api?username=spy-in-shadows&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/api?username=spy-in-shadows&show_icons=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-streak-stats@master?user=spy-in-shadows&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://cdn.jsdelivr.net/gh/DenverCoder1/github-readme-streak-stats@master?user=spy-in-shadows" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/api/top-langs/?username=spy-in-shadows&layout=compact&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/api/top-langs/?username=spy-in-shadows&layout=compact" />
-  </picture>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/api?username=spy-in-shadows&show_icons=true&theme=tokyonight" />
 
 ---
 
