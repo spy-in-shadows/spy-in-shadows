@@ -1,5 +1,22 @@
-<h1 align="center">Hey 👋, I'm Krishna</h1>
-<h3 align="center">B.Tech CSE (AI & ML) | Curious Mind | Builder</h3>
+<h1 align="center">
+  Hi there 👋, I'm Krishna
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=22&
+    duration=3000&
+    pause=1000&
+    color=38BDF8&
+    center=true&
+    vCenter=true&
+    width=520&
+    lines=B.Tech+CSE+(AI+%26+ML);
+    Curious+Mind+%7C+Builder;
+    Learning+by+Breaking+Things"
+  />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=spy-in-shadows&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -10,19 +27,19 @@
 ## 🧠 About Me
 
 - 🎓 **B.Tech CSE (AI & ML)** @ NST ADYPU, Pune  
-- 🤖 Passionate about **AI, ML, and problem-solving**
-- 💻 Exploring **Web Dev + Core CS**
-- 🎵 Singer | 🏏 Cricket Enthusiast  
-- 🌱 Currently learning **Data Structures, ML basics & Git internals**
-- 🧩 I enjoy understanding *why* things work, not just *how*
+- 🤖 Learning **AI, ML & Core CS from first principles**
+- 💻 Exploring **Web Development + DSA**
+- 🎵 Singer | 🏏 Cricket Lover  
+- 🧠 Obsessed with understanding *why things work*
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🌐 Web
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +56,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spy-in-shadows&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spy-in-shadows&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spy-in-shadows&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -48,30 +69,30 @@
 
 ---
 
-## 🧩 What I'm Working On
+## 🧩 Currently Working On
 
 - 🔹 Strengthening **DSA & problem-solving**
 - 🔹 Building **small but meaningful projects**
-- 🔹 Learning **AI fundamentals from scratch (properly)**
-- 🔹 Improving **code quality & clean commits**
+- 🔹 Learning **AI/ML fundamentals properly**
+- 🔹 Improving **code clarity & commit discipline**
 
 ---
 
-## 📌 Fun Facts
+## ⚡ Fun Zone
 
-- 🎧 Music helps me think better  
-- 🧠 I overthink problems until they *click*  
-- 🛠 Love breaking things just to understand them  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/spy-in-shadows">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/krishna-verma-2025-2029-cse/">
+  <a href="https://www.linkedin.com/in/krishna-verma-2025-2029-cse/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
@@ -80,4 +101,8 @@
 
 <p align="center">
   <i>"Stay curious. Build things. Break illusions."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 </p>
