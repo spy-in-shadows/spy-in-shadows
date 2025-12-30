@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+<h3 align="center">🧠 About Me</h3>
 
 - 🎓 **B.Tech CSE (AI & ML)** @ NST ADYPU, Pune  
 - 🤖 Passionate about **AI, ML, and problem-solving**
@@ -18,11 +18,11 @@
 
 ---
 
-## 🚀 Tech Stack
+<h3 align="center">🚀 Tech Stack</h3>
 
 ### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🌐 Web
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=spy-in-shadows&show_icons=true&theme=tokyonight" />
@@ -48,7 +48,7 @@
 
 ---
 
-## 🧩 What I'm Working On
+<h3 align="center">🧩 What I'm Working On</h3>
 
 - 🔹 Strengthening **DSA & problem-solving**
 - 🔹 Building **small but meaningful projects**
@@ -57,7 +57,7 @@
 
 ---
 
-## 📌 Fun Facts
+<h3 align="center">📌 Fun Facts</h3>
 
 - 🎧 Music helps me think better  
 - 🧠 I overthink problems until they *click*  
@@ -65,7 +65,7 @@
 
 ---
 
-## 🤝 Connect With Me
+<h3 align="center">🤝 Connect With Me</h3>
 
 <p align="left">
   <a href="https://github.com/spy-in-shadows">
