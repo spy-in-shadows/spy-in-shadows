@@ -29,7 +29,7 @@
 - 🎓 **B.Tech CSE (AI & ML)** @ NST ADYPU, Pune  
 - 🤖 Learning **AI, ML & Core CS from first principles**
 - 💻 Exploring **Web Development + DSA**
-- 🎵 Singer | 🏏 Cricket Lover  
+- 🎵 Music lover| 🏏 Sports enthusiast  
 - 🧠 Obsessed with understanding *why things work*
 
 ---
